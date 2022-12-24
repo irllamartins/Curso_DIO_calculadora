@@ -1,3 +1,7 @@
+# Calculadora com operações básicas com números inteiros
+![image](https://user-images.githubusercontent.com/39415559/209414337-bab62cd2-1122-4786-9e73-92df2a28ffd6.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
